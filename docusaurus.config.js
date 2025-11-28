@@ -29,7 +29,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'TheGinaR', // Usually your GitHub org/user name.
-  projectName: 'Assignment3', // Usually your repo name.
+  projectName: 'Assignment3_TWR', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
