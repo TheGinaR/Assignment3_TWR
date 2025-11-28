@@ -16,8 +16,9 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
               <p className="hero__subtitle">{siteConfig.tagline}</p>
-              <p><b>Hello? Is someone out there? I was working on my assignment and got lost on the internet trying to
-                  figure it out. <br />Look around for information so I can get out of here.</b></p>
+              <p><b>This website is to show I muddled through learning how to use Docusaurus and GitHub Pages. For more information see the About page. <br /></b>
+                  Hello? Is someone out there? I was working on my assignment and got lost on the internet trying to
+    figure it out. <br/>Look around for information so I can get out of here.</p>
       </div>
     </header>
   );
@@ -27,7 +28,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>

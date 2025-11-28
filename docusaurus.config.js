@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
     deploymentBranch:'gh-pages',
   title: 'Gina\'s Assignment Microsite',
-  tagline: 'Help, I\'m trapped in the webpage.',
+  tagline: 'This is my Docusaurus site for Assignment 3. Help, I\'m trapped inside.',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
