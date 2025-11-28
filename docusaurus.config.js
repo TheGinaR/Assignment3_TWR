@@ -10,6 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+    deploymentBranch:'gh-pages',
   title: 'Gina\'s Assignment Microsite',
   tagline: 'Help, I\'m trapped in the webpage.',
   favicon: 'img/favicon.ico',
